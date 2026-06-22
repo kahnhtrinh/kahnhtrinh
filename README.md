@@ -134,22 +134,13 @@
 
 ## 📊 GitHub Stats
 
-> ⚠️ Thay `YOUR_GITHUB_USERNAME` bằng username GitHub thật của bạn để hiện stats!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kahnhtrinh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kahnhtrinh&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -159,11 +150,36 @@
 | 🎓 Degree | 📍 University | 📅 Year | 📊 GPA |
 |---|---|---|---|
 | Software Development | Ton Duc Thang University | 2022 – 2026 | 3.16 / 4.0 |
+| Exchange Program – Dept. of Information Technology | Chinese Culture University, Taipei, Taiwan 🇹🇼 | Jul. 2025 – Aug. 2025 | — |
 
 | 🏆 Achievement | 📅 Year |
 |---|---|
 | University-level Scientific Research Award | 2026 |
-| English Certificate — Basic Communication | — |
+| 🥇 Gold Medal — University Swimming Club Competition | Mar. 2023 |
+
+---
+
+## 📋 Certificates
+
+| 📄 Certificate | 🏢 Issued By |
+|---|---|
+| Certificate of Attendance – 72-hour IT Study Program | Chinese Culture University, Taipei, Taiwan |
+| ChatGPT Prompt Engineering for Developers | DeepLearning.AI |
+| English – Basic Reading, Writing & Communication | — |
+
+---
+
+## 🚀 Professional Certifications
+
+<div align="center">
+
+[![Agile & Scrum](https://img.shields.io/badge/Agile_%26_Scrum-Techbase_VN-1572B6?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://techbase.vn)
+[![Communication Skills](https://img.shields.io/badge/Communication_Skills-TopSkills_VN-F7A800?style=for-the-badge&logo=googlemeet&logoColor=white)](https://topskills.vn)
+
+</div>
+
+- 📌 **Agile & Scrum Methodology** — *Techbase Viet Nam*
+- 📌 **Professional Communication Skills** — *TopSkills Vietnam*
 
 ---
 
